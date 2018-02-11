@@ -162,10 +162,10 @@ Students <small>Manage Students</small>
 									<?php echo $row['fname']; ?>
 									</td>
 									<td>
-									<?php echo $row['dob']; ?>
+									<?php echo $row['gender']; ?>
 									</td>
 									<td>
-									<?php echo $row['gender']; ?>
+									<?php echo $row['dob']; ?>
 									</td>
 									<td>
 									<?php echo $row['nationality']; ?>
