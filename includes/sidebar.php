@@ -85,9 +85,19 @@
 					<a href="#">
 						<i class="fa fa-bar-chart-o"></i>
 						<span class="title">
-							Visual Charts
+							Exams
+						</span>
+						<span class="arrow ">
 						</span>
 					</a>
+					<ul class="sub-menu">
+						<li>
+							<a href="add_exam.php">Create Exam</a>
+						</li>
+						<li>
+							<a href="manage_exams.php">Manage Exaams</a>
+						</li>
+					</ul>
 				</li>
 			</ul>
 			<!-- END SIDEBAR MENU -->

@@ -1,4 +1,4 @@
 <?php
 	
-	$link= mysqli_connect('localhost','root','root','school');
+	$link= mysqli_connect('localhost','root','','school');
 ?>
