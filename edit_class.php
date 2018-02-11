@@ -133,5 +133,5 @@ Class <small>Update Class Record</small>
 
 
 <?php 
-	include "includes/foote.php";
+	include "includes/footer.php";
 ?>
